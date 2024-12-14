@@ -52,23 +52,6 @@ This repository contains a collection of mini projects designed to strengthen fu
 
 This project was inspired and guided by Alex the Analyst on his [YouTube channel](https://www.youtube.com/@AlexTheAnalyst). His clear and practical explanations helped make these concepts easy to understand and apply.
 
-## Usage
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/pandas-python-mini-projects.git
-   ```
-
-2. Install the required libraries:
-   ```bash
-   pip install pandas matplotlib jupyter
-   ```
-
-3. Open Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-
 4. Navigate to the desired project and run the notebook.
 
 ## Feedback
