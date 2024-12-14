@@ -52,8 +52,6 @@ This repository contains a collection of mini projects designed to strengthen fu
 
 This project was inspired and guided by Alex the Analyst on his [YouTube channel](https://www.youtube.com/@AlexTheAnalyst). His clear and practical explanations helped make these concepts easy to understand and apply.
 
-4. Navigate to the desired project and run the notebook.
-
 ## Feedback
 
 Feel free to raise an issue or submit a pull request for suggestions, improvements, or additional projects. Your contributions are welcome!
